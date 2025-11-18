@@ -12,19 +12,19 @@ const projects = [
         title: "EEG Graph Neural Network Toolkit",
         description: "Internal lab package for applying graph neural networks to EEG connectivity analysis and seizure localization tasks.",
         tags: ["PyTorch", "MNE", "Graph ML", "Neuroscience"],
-        link: "https://github.com/raiyanIshman"
+        link: "https://github.com/raiyanIshmam"
     },
     {
         title: "Time-Series ML Demo",
         description: "Demonstration of various time-series forecasting approaches using LSTM and transformer architectures on physiological signals.",
         tags: ["TensorFlow", "Time-Series", "Deep Learning"],
-        link: "https://github.com/raiyanIshman"
+        link: "https://github.com/raiyanIshmam"
     },
     {
         title: "Signal Processing Pipeline",
         description: "Modular Python pipeline for preprocessing and feature extraction from multi-channel neurophysiological recordings.",
         tags: ["Python", "SciPy", "Signal Processing", "MNE"],
-        link: "https://github.com/raiyanIshman"
+        link: "https://github.com/raiyanIshmam"
     }
 ];
 
